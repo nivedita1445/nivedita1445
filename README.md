@@ -32,24 +32,6 @@ with a strong interest in <strong>cloud modernization</strong> and scalable syst
 
 <hr>
 
-<h3>📌 Current Focus</h3>
-<ul>
-  <li>Developing real-world backend services using Java & Spring Boot</li>
-  <li>Understanding legacy-to-cloud system transformation</li>
-  <li>Improving API design and system design fundamentals</li>
-</ul>
-
-<hr>
-
-<h3>🎯 Career Objective</h3>
-<p>
-Seeking <strong>Backend / Software Engineer</strong> opportunities in
-<strong>India and Europe</strong> where I can contribute to
-enterprise-grade systems and grow as a cloud-focused engineer.
-</p>
-
-<hr>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nivedita-wani-96351a211/" target="_blank">LinkedIn</a> |
   <a href="https://github.com/niveditawani" target="_blank">GitHub</a>
