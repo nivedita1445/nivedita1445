@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Nivedita Wani</h1>
-<h3 align="center">Backend-focused Software Engineer | Mainframe Systems | Java • Spring Boot • REST APIs • SQL • AWS
-</h3>
+<h1 align="center">Hi, I'm Nivedita Wani 👋</h1>
 
-- 🤝 I’m looking for help with *Development*
-
-- 💬 Ask me about *JAVA,OS,DBMS,SQL,DSA*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nivedita-wani-96351a211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/niveditawani9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dd" height="30" width="40" /></a>
-<a href="https://leetcode.com/niveditawani9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dd" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/niveditawani9/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dd" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer | Mainframe Systems | Backend & Cloud Engineering</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<hr>
+
+<p>
+I am a Software Engineer at <strong>Amdocs</strong>, working on
+<strong>enterprise mainframe-based systems</strong> that support large-scale telecom applications.
+</p>
+
+<p>
+Alongside my professional role, I am building
+<strong>backend applications</strong> using
+<strong>Java, Spring Boot, REST APIs, SQL, and AWS</strong>,
+with a strong interest in <strong>cloud modernization</strong> and scalable system design.
+</p>
+
+<hr>
+
+<h3>🛠 Technical Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> Java, SQL</li>
+  <li><strong>Backend:</strong> Spring Boot, REST APIs</li>
+  <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
+  <li><strong>Cloud:</strong> AWS (Foundational)</li>
+  <li><strong>Enterprise:</strong> Mainframe Systems</li>
+  <li><strong>Tools:</strong> Git, GitHub, IntelliJ IDEA</li>
+</ul>
+
+<hr>
+
+<h3>📌 Current Focus</h3>
+<ul>
+  <li>Developing real-world backend services using Java & Spring Boot</li>
+  <li>Understanding legacy-to-cloud system transformation</li>
+  <li>Improving API design and system design fundamentals</li>
+</ul>
+
+<hr>
+
+<h3>🎯 Career Objective</h3>
+<p>
+Seeking <strong>Backend / Software Engineer</strong> opportunities in
+<strong>India and Europe</strong> where I can contribute to
+enterprise-grade systems and grow as a cloud-focused engineer.
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivedita-wani-96351a211/" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/niveditawani" target="_blank">GitHub</a>
+</p>
