@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nivedita Wani</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">Backend-focused Software Engineer | Mainframe Systems | Java • Spring Boot • REST APIs • SQL • AWS
+</h3>
 
 - 🤝 I’m looking for help with *Development*
 
